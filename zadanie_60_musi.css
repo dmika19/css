@@ -1,0 +1,12 @@
+div#blok1_musialowska { width: 619px; background-color: green; color: white;}
+div#blok2_musialowska { width: 619px; background-color: green; color: white;}
+div#blok3_musialowska { width: 619px; background-color: green; color: white;}
+
+div#blok1_musialowska:hover { background-color: blue; font-size: 21mm;}
+div#blok2_musialowska:hover { background-color: silver; font-size: 21mm;}
+div#blok3_musialowska:hover { background-color: lime; font-size: 21mm;}
+
+
+
+/* hover; pseudoklasa która powoduje aktywowanie elementu po naruszeniu na niego kursorem, np zmiana koloru
+Musiałowska Dominika */

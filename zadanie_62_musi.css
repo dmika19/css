@@ -1,0 +1,17 @@
+p
+{
+font-size:21mm;
+}
+p:lang(pl)
+{
+font-size: 28mm;
+}
+p:lang(en)
+{
+font-size: 35mm;
+}
+
+body {
+
+    background-color: silver;
+}
